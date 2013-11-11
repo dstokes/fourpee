@@ -1,0 +1,26 @@
+{
+  "name": "fourpee",
+  "version": "0.0.1",
+  "description": "Small program for generating a \"Four P's\" progress report",
+  "main": "index.js",
+  "bin": {
+    "fourpee": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Drew Stokes",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "read": "~1.0.5",
+    "copy-paste": "~0.1.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/dstokes/fourpee.git"
+  },
+  "bugs": {
+    "url": "https://github.com/dstokes/fourpee/issues"
+  }
+}
